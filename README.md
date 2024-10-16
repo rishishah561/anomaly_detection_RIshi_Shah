@@ -22,7 +22,7 @@ This project implements a real-time anomaly detection system for continuous data
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/anomaly-detection-streams.git
+   git clone https://github.com/rishishah561/anomaly_detection_Rishi_Shah
    cd anomaly-detection-streams
    ```
 
@@ -91,5 +91,4 @@ This project is open-source and available under the MIT License.
 
 
 ## Author
-
-Your Name - [rishishah561]()
+[rishishah561]()
