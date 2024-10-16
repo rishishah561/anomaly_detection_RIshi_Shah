@@ -89,10 +89,7 @@ This approach allows for adaptive anomaly detection that can handle concept drif
 
 This project is open-source and available under the MIT License.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/anomaly-detection-streams/issues) if you want to contribute.
 
 ## Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [rishishah561]()
